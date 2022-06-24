@@ -1,0 +1,376 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 422427d9eb81f684287115b868d210f8, type: 3}
+  m_Name: Preguntas_ARG_ES
+  m_EditorClassIdentifier: 
+  Preguntas:
+  - pregunta: "\xBFCu\xE1l es el gentilicio de la provincia de Buenos Aires?"
+    id: 0
+    respuestas:
+    - respuesta: Bonaerense
+      correcta: 1
+    - respuesta: Platense
+      correcta: 0
+    - respuesta: "Porte\xF1o"
+      correcta: 0
+    - respuesta: "Litorale\xF1o"
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFCu\xE1ntas provincias hay en Argentina?"
+    id: 1
+    respuestas:
+    - respuesta: 23
+      correcta: 1
+    - respuesta: 24
+      correcta: 0
+    - respuesta: 22
+      correcta: 0
+    - respuesta: 20
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFCu\xE1l es la monta\xF1a m\xE1s alta de Argentina?"
+    id: 2
+    respuestas:
+    - respuesta: Cerro Mercedario
+      correcta: 0
+    - respuesta: Aconcagua
+      correcta: 1
+    - respuesta: Monte Pissis
+      correcta: 0
+    - respuesta: "Cha\xF1i"
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 moneda se utiliza en Argentina?"
+    id: 3
+    respuestas:
+    - respuesta: Real
+      correcta: 0
+    - respuesta: "D\xF3lar"
+      correcta: 0
+    - respuesta: Peso Argentino
+      correcta: 1
+    - respuesta: Euro
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es el icono central de la bandera Argentina?"
+    id: 4
+    respuestas:
+    - respuesta: Piedra
+      correcta: 0
+    - respuesta: "\xC1rbol"
+      correcta: 0
+    - respuesta: Nube
+      correcta: 0
+    - respuesta: Sol
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1l continente vinieron mayormente inmigrantes a Argentina?"
+    id: 5
+    respuestas:
+    - respuesta: Europa
+      correcta: 1
+    - respuesta: "\xC1frica"
+      correcta: 0
+    - respuesta: Asia
+      correcta: 0
+    - respuesta: "Ocean\xEDa"
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFEn qu\xE9 zona se origi\xF3 el tango?"
+    id: 6
+    respuestas:
+    - respuesta: Cuyo
+      correcta: 0
+    - respuesta: Litoral
+      correcta: 0
+    - respuesta: Patagonia
+      correcta: 0
+    - respuesta: "R\xEDo de la Plata"
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFEn qu\xE9 siglo comenz\xF3 la colonizaci\xF3n espa\xF1ola en Argentina?"
+    id: 7
+    respuestas:
+    - respuesta: XVII
+      correcta: 0
+    - respuesta: XVIII
+      correcta: 0
+    - respuesta: XIX
+      correcta: 0
+    - respuesta: XVI
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1l es la jerga m\xE1s popular de Argentina?"
+    id: 8
+    respuestas:
+    - respuesta: Coa
+      correcta: 0
+    - respuesta: "German\xEDa"
+      correcta: 0
+    - respuesta: Leet
+      correcta: 0
+    - respuesta: Lunfardo
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 significa la palabra 'Laburo'?"
+    id: 9
+    respuestas:
+    - respuesta: Laboratorio
+      correcta: 0
+    - respuesta: Laboral
+      correcta: 0
+    - respuesta: Trabajo
+      correcta: 1
+    - respuesta: Golpe
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es el dialecto espa\xF1ol m\xE1s popular en Argentina?"
+    id: 10
+    respuestas:
+    - respuesta: Rioplatense
+      correcta: 1
+    - respuesta: Cuyano
+      correcta: 0
+    - respuesta: "Norte\xF1o"
+      correcta: 0
+    - respuesta: "Guaran\xEDtico"
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFDe qu\xE9 a\xF1o data la Cueva de las Manos?"
+    id: 11
+    respuestas:
+    - respuesta: 7500 a.C.
+      correcta: 0
+    - respuesta: 6780 a.C.
+      correcta: 0
+    - respuesta: 5500 a.C.
+      correcta: 0
+    - respuesta: 7350 a.C.
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFC\xF3mo se llama el gaucho inventado por Jos\xE9 Hern\xE1ndez?"
+    id: 12
+    respuestas:
+    - respuesta: Hormiga Negra
+      correcta: 0
+    - respuesta: Mate Cosido
+      correcta: 0
+    - respuesta: Gauchito Gil
+      correcta: 0
+    - respuesta: "Mart\xEDn Fierro"
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1ndo se realiz\xF3 en primer censo en Argentina?"
+    id: 13
+    respuestas:
+    - respuesta: 1895
+      correcta: 0
+    - respuesta: 1869
+      correcta: 1
+    - respuesta: 1888
+      correcta: 0
+    - respuesta: 1870
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1l es la universidad m\xE1s antigua de Argentina?"
+    id: 14
+    respuestas:
+    - respuesta: UNT
+      correcta: 0
+    - respuesta: UBA
+      correcta: 0
+    - respuesta: UNC
+      correcta: 1
+    - respuesta: UNLP
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQui\xE9n escribi\xF3 'Rayuela'?"
+    id: 15
+    respuestas:
+    - respuesta: "Julio Cort\xE1zar"
+      correcta: 1
+    - respuesta: Jorge Luis Borges
+      correcta: 0
+    - respuesta: Leopoldo Lugones
+      correcta: 0
+    - respuesta: Roberto Arlt
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFCu\xE1l es la obra m\xE1s conocida de Quino?"
+    id: 16
+    respuestas:
+    - respuesta: "Patoruz\xFA"
+      correcta: 0
+    - respuesta: Mafalda
+      correcta: 1
+    - respuesta: Don Fierro
+      correcta: 0
+    - respuesta: El Eternauta
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1ndo es el d\xEDa de la Bandera en Argentina?"
+    id: 17
+    respuestas:
+    - respuesta: 17 de Agosto
+      correcta: 0
+    - respuesta: 9 de Julio
+      correcta: 0
+    - respuesta: 25 de Mayo
+      correcta: 0
+    - respuesta: 20 de Junio
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFEn qu\xE9 a\xF1o Argentina gan\xF3 la primera Copa Mundial de
+      F\xFAtbol?"
+    id: 18
+    respuestas:
+    - respuesta: 2002
+      correcta: 0
+    - respuesta: 1986
+      correcta: 0
+    - respuesta: 1978
+      correcta: 1
+    - respuesta: 1990
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es la religi\xF3n m\xE1s practicada en Argentina?"
+    id: 19
+    respuestas:
+    - respuesta: Evangelismo
+      correcta: 0
+    - respuesta: Catolicismo
+      correcta: 1
+    - respuesta: Mormonismo
+      correcta: 0
+    - respuesta: "Ate\xEDsmo"
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFD\xF3nde se realiz\xF3 la independencia Argentina?"
+    id: 20
+    respuestas:
+    - respuesta: "Cabildo de C\xF3rdoba"
+      correcta: 0
+    - respuesta: "Cabildo de Luj\xE1n"
+      correcta: 0
+    - respuesta: "Casa de Tucum\xE1n"
+      correcta: 1
+    - respuesta: Cabildo de Salta
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQu\xE9 tiene el mate que resulta estimulante?"
+    id: 21
+    respuestas:
+    - respuesta: "Az\xFAcar"
+      correcta: 0
+    - respuesta: "Mate\xEDna"
+      correcta: 0
+    - respuesta: "Cafe\xEDna"
+      correcta: 1
+    - respuesta: Romero
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFC\xF3mo se llama la uni\xF3n entre un chorizo y un pan?"
+    id: 22
+    respuestas:
+    - respuesta: Pancho
+      correcta: 0
+    - respuesta: "Morcip\xE1n"
+      correcta: 0
+    - respuesta: "Chorip\xE1n"
+      correcta: 1
+    - respuesta: Lomito
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFD\xF3nde se proh\xEDbe fumar en Argentina?"
+    id: 23
+    respuestas:
+    - respuesta: Plazas
+      correcta: 0
+    - respuesta: Lugares cerrados
+      correcta: 1
+    - respuesta: Veredas
+      correcta: 0
+    - respuesta: Puentes
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1l fue la pel\xEDcula argentina que gener\xF3 m\xE1s dinero?"
+    id: 24
+    respuestas:
+    - respuesta: Relatos salvajes
+      correcta: 0
+    - respuesta: Metegol
+      correcta: 0
+    - respuesta: El Clan
+      correcta: 0
+    - respuesta: El secreto de sus ojos
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 canal de TV argentino tiene m\xE1s audiencia?"
+    id: 25
+    respuestas:
+    - respuesta: Eltrece
+      correcta: 0
+    - respuesta: Telefe
+      correcta: 1
+    - respuesta: "TV P\xFAblica"
+      correcta: 0
+    - respuesta: "Am\xE9rica TV"
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFC\xF3mo se llamaba el 'Che Guevara'?"
+    id: 26
+    respuestas:
+    - respuesta: Carlos
+      correcta: 0
+    - respuesta: Facundo
+      correcta: 0
+    - respuesta: Ernesto
+      correcta: 1
+    - respuesta: "Mat\xEDas"
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es el deporte oficial en Argentina?"
+    id: 27
+    respuestas:
+    - respuesta: Polo
+      correcta: 0
+    - respuesta: "B\xE1squet"
+      correcta: 0
+    - respuesta: "F\xFAtbol"
+      correcta: 0
+    - respuesta: Pato
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFDe qu\xE9 palabra en lat\xEDn deriva el nombre de Argentina?"
+    id: 28
+    respuestas:
+    - respuesta: "Rub\xED"
+      correcta: 0
+    - respuesta: Diamante
+      correcta: 0
+    - respuesta: Oro
+      correcta: 0
+    - respuesta: Plata
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 enorme dinosaurio vivi\xF3 en Argentina?"
+    id: 29
+    respuestas:
+    - respuesta: Alosaurio
+      correcta: 0
+    - respuesta: Titanosaurio
+      correcta: 1
+    - respuesta: T-Rex
+      correcta: 0
+    - respuesta: Triceratops
+      correcta: 0
+    previusChanges: 00010000

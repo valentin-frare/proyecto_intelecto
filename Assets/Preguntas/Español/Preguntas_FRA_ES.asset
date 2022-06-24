@@ -1,0 +1,377 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 422427d9eb81f684287115b868d210f8, type: 3}
+  m_Name: Preguntas_FRA_ES
+  m_EditorClassIdentifier: 
+  Preguntas:
+  - pregunta: "\xBFEn qu\xE9 lugares est\xE1 prohibido besarse en Francia?"
+    id: 0
+    respuestas:
+    - respuesta: Restaurantes
+      correcta: 0
+    - respuesta: Casas
+      correcta: 0
+    - respuesta: Plataformas de trenes
+      correcta: 1
+    - respuesta: Cementerios
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1nto tiempo rein\xF3 Luis XIX?"
+    id: 1
+    respuestas:
+    - respuesta: 1 semana
+      correcta: 0
+    - respuesta: "3 d\xEDas"
+      correcta: 0
+    - respuesta: 20 minutos
+      correcta: 1
+    - respuesta: 14 segundos
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es la capital de Francia?"
+    id: 2
+    respuestas:
+    - respuesta: Versalles
+      correcta: 0
+    - respuesta: Marsella
+      correcta: 0
+    - respuesta: Lyon
+      correcta: 0
+    - respuesta: "Par\xEDs"
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 bebida es muy conocida en Francia?"
+    id: 3
+    respuestas:
+    - respuesta: Jugo de Naranja
+      correcta: 0
+    - respuesta: Agua
+      correcta: 0
+    - respuesta: Cerveza
+      correcta: 0
+    - respuesta: Vino
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 idioma es el predominante en Francia?"
+    id: 4
+    respuestas:
+    - respuesta: "Ingl\xE9s"
+      correcta: 0
+    - respuesta: "Franc\xE9s"
+      correcta: 1
+    - respuesta: "Espa\xF1ol"
+      correcta: 0
+    - respuesta: "Alem\xE1n"
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 comida se destaca en Francia?"
+    id: 5
+    respuestas:
+    - respuesta: Aceituna
+      correcta: 0
+    - respuesta: Queso
+      correcta: 1
+    - respuesta: Mantequilla
+      correcta: 0
+    - respuesta: Patata
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFC\xF3mo se llama la famosa pel\xEDcula de animaci\xF3n de una
+      rata en Francia?"
+    id: 6
+    respuestas:
+    - respuesta: Espelette
+      correcta: 0
+    - respuesta: Choucroute
+      correcta: 0
+    - respuesta: Ratatouille
+      correcta: 1
+    - respuesta: Bouquet
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFC\xF3mo es el apellido de Napole\xF3n, famoso militar franc\xE9s?"
+    id: 7
+    respuestas:
+    - respuesta: Bonaparte
+      correcta: 1
+    - respuesta: Bernard
+      correcta: 0
+    - respuesta: Dubois
+      correcta: 0
+    - respuesta: Petit
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 color se encuentra a la derecha de la bandera francesa?"
+    id: 8
+    respuestas:
+    - respuesta: Amarillo
+      correcta: 0
+    - respuesta: Azul
+      correcta: 0
+    - respuesta: Rojo
+      correcta: 1
+    - respuesta: Verde
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFD\xF3nde se encuentra la Torre Eiffel?"
+    id: 9
+    respuestas:
+    - respuesta: Marsella
+      correcta: 0
+    - respuesta: Versalles
+      correcta: 0
+    - respuesta: Lyon
+      correcta: 0
+    - respuesta: "Par\xEDs"
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1ntos colores tiene la bandera francesa?"
+    id: 10
+    respuestas:
+    - respuesta: 5
+      correcta: 0
+    - respuesta: 4
+      correcta: 0
+    - respuesta: 2
+      correcta: 0
+    - respuesta: 3
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFEn qu\xE9 a\xF1o comenz\xF3 la revoluci\xF3n francesa?"
+    id: 11
+    respuestas:
+    - respuesta: 1789
+      correcta: 1
+    - respuesta: 1799
+      correcta: 0
+    - respuesta: 1830
+      correcta: 0
+    - respuesta: 1848
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFEn qu\xE9 otro pa\xEDs es oficial el idioma franc\xE9s?"
+    id: 12
+    respuestas:
+    - respuesta: Sri Lanka
+      correcta: 0
+    - respuesta: Filipinas
+      correcta: 0
+    - respuesta: "Canad\xE1"
+      correcta: 1
+    - respuesta: Nigeria
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQui\xE9n escribi\xF3 'La vuelta al mundo en 80 d\xEDas'?"
+    id: 13
+    respuestas:
+    - respuesta: Julio Verne
+      correcta: 1
+    - respuesta: "V\xEDctor Hugo"
+      correcta: 0
+    - respuesta: Stendhal
+      correcta: 0
+    - respuesta: Voltaire
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFA qu\xE9 fil\xF3sofo franc\xE9s se le atribuye la frase 'Pienso,
+      luego existo'?"
+    id: 14
+    respuestas:
+    - respuesta: Pedro Abelardo
+      correcta: 0
+    - respuesta: Jules Michelet
+      correcta: 0
+    - respuesta: "Ren\xE9 Descartes"
+      correcta: 1
+    - respuesta: Voltaire
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFEn qu\xE9 siglo surgi\xF3 la 'Pintura del Realismo'?"
+    id: 15
+    respuestas:
+    - respuesta: XX
+      correcta: 0
+    - respuesta: XIX
+      correcta: 1
+    - respuesta: XVIII
+      correcta: 0
+    - respuesta: XVII
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1l es la catedral francesa m\xE1s popular?"
+    id: 16
+    respuestas:
+    - respuesta: Notre Dame
+      correcta: 1
+    - respuesta: Estrasburgo
+      correcta: 0
+    - respuesta: Amiens
+      correcta: 0
+    - respuesta: Lyon
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 matem\xE1tico franc\xE9s invent\xF3 la calculadora mec\xE1nica?"
+    id: 17
+    respuestas:
+    - respuesta: Louis Pasteur
+      correcta: 0
+    - respuesta: "Henri Poincar\xE9"
+      correcta: 0
+    - respuesta: Blaise Pascal
+      correcta: 1
+    - respuesta: Louis Poinsot
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1ntas copas del mundo de f\xFAtbol gan\xF3 Francia?"
+    id: 18
+    respuestas:
+    - respuesta: 2
+      correcta: 1
+    - respuesta: 1
+      correcta: 0
+    - respuesta: 0
+      correcta: 0
+    - respuesta: 3
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFCu\xE1l es la carrera de ciclismo m\xE1s prestigiosa en Francia?"
+    id: 19
+    respuestas:
+    - respuesta: Giro
+      correcta: 0
+    - respuesta: Grande Boucle
+      correcta: 0
+    - respuesta: La Vuelta
+      correcta: 0
+    - respuesta: Tour de Francia
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFC\xF3mo se llama tambi\xE9n el torneo de tenis 'Abierto de Francia'?"
+    id: 20
+    respuestas:
+    - respuesta: Roland Garros
+      correcta: 1
+    - respuesta: Wimbledon
+      correcta: 0
+    - respuesta: Grand Slam
+      correcta: 0
+    - respuesta: Copa Davis
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFPor cu\xE1ntos a\xF1os el franc\xE9s fue idioma oficial de Inglaterra?"
+    id: 21
+    respuestas:
+    - respuesta: 257
+      correcta: 0
+    - respuesta: 296
+      correcta: 1
+    - respuesta: 284
+      correcta: 0
+    - respuesta: 303
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFEn qu\xE9 campo Francia gan\xF3 m\xE1s premios Nobel?"
+    id: 22
+    respuestas:
+    - respuesta: "F\xEDsica"
+      correcta: 0
+    - respuesta: Paz
+      correcta: 0
+    - respuesta: Literatura
+      correcta: 1
+    - respuesta: "Qu\xEDmica"
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es la monta\xF1a francesa m\xE1s alta?"
+    id: 23
+    respuestas:
+    - respuesta: Mont Blanc
+      correcta: 1
+    - respuesta: Mont Ventoux
+      correcta: 0
+    - respuesta: Chamechaude
+      correcta: 0
+    - respuesta: Arcalod
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFCu\xE1l es el museo m\xE1s visitado de Par\xEDs?"
+    id: 24
+    respuestas:
+    - respuesta: Rodin
+      correcta: 0
+    - respuesta: Orangerie
+      correcta: 0
+    - respuesta: Orsay
+      correcta: 0
+    - respuesta: Louvre
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 inventaron las armadas francesas en 1915?"
+    id: 25
+    respuestas:
+    - respuesta: Radar
+      correcta: 0
+    - respuesta: Camuflaje
+      correcta: 1
+    - respuesta: Dirigibles
+      correcta: 0
+    - respuesta: Submarinos
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 palabra no se encuentra en el lema oficial franc\xE9s?"
+    id: 26
+    respuestas:
+    - respuesta: Independencia
+      correcta: 1
+    - respuesta: Libertad
+      correcta: 0
+    - respuesta: Igualdad
+      correcta: 0
+    - respuesta: Fraternidad
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFA qu\xE9 forma geom\xE9trica se le atribuye a Francia?"
+    id: 27
+    respuestas:
+    - respuesta: "Oct\xE1gono"
+      correcta: 0
+    - respuesta: "Hept\xE1gono"
+      correcta: 0
+    - respuesta: "Hex\xE1gono"
+      correcta: 1
+    - respuesta: "Pent\xE1gono"
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCon cu\xE1ntos pa\xEDses limita Francia?"
+    id: 28
+    respuestas:
+    - respuesta: 7
+      correcta: 0
+    - respuesta: 5
+      correcta: 0
+    - respuesta: 8
+      correcta: 1
+    - respuesta: 10
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es la religi\xF3n predominante en Francia?"
+    id: 29
+    respuestas:
+    - respuesta: "Sin religi\xF3n"
+      correcta: 0
+    - respuesta: Cristianismo
+      correcta: 1
+    - respuesta: Islam
+      correcta: 0
+    - respuesta: "Juda\xEDsmo"
+      correcta: 0
+    previusChanges: 00010000

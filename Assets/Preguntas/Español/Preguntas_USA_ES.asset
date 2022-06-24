@@ -1,0 +1,376 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 422427d9eb81f684287115b868d210f8, type: 3}
+  m_Name: Preguntas_USA_ES
+  m_EditorClassIdentifier: 
+  Preguntas:
+  - pregunta: "\xBFCu\xE1l es la capital de Estados Unidos?"
+    id: 0
+    respuestas:
+    - respuesta: Washington D.C.
+      correcta: 1
+    - respuesta: Montevideo
+      correcta: 0
+    - respuesta: Varsovia
+      correcta: 0
+    - respuesta: Buenos Aires
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFCu\xE1l no es una ciudad de Estados Unidos?"
+    id: 1
+    respuestas:
+    - respuesta: Nueva York
+      correcta: 0
+    - respuesta: Madrid
+      correcta: 1
+    - respuesta: Chicago
+      correcta: 0
+    - respuesta: Las Vegas
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 estatua representa a los Estados Unidos?"
+    id: 2
+    respuestas:
+    - respuesta: El David
+      correcta: 0
+    - respuesta: Madre Patria
+      correcta: 0
+    - respuesta: Cristo Redentor
+      correcta: 0
+    - respuesta: Libertad
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1l es la obra m\xE1s popular de Herman Melville?"
+    id: 3
+    respuestas:
+    - respuesta: Billy Budd
+      correcta: 0
+    - respuesta: Benito Cereno
+      correcta: 0
+    - respuesta: Taipi
+      correcta: 0
+    - respuesta: Moby-Dick
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQui\xE9n escribi\xF3 'El escarabajo de oro'?"
+    id: 4
+    respuestas:
+    - respuesta: Edgar Allan Poe
+      correcta: 1
+    - respuesta: Walt Whitman
+      correcta: 0
+    - respuesta: Mark Twain
+      correcta: 0
+    - respuesta: Ezra Pound
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFEn qu\xE9 a\xF1o se estren\xF3 la primera pel\xEDcula de Star
+      Wars?"
+    id: 5
+    respuestas:
+    - respuesta: 1977
+      correcta: 1
+    - respuesta: 1980
+      correcta: 0
+    - respuesta: 1983
+      correcta: 0
+    - respuesta: 1978
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFCon qu\xE9 pel\xEDcula gan\xF3 Tarantino su primer \xD3scar?"
+    id: 6
+    respuestas:
+    - respuesta: Pulp Fiction
+      correcta: 1
+    - respuesta: Reservoir Dogs
+      correcta: 0
+    - respuesta: Kill Bill
+      correcta: 0
+    - respuesta: Django Unchained
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFCu\xE1ntas pel\xEDculas hubo de 'El Padrino'?"
+    id: 7
+    respuestas:
+    - respuesta: 2
+      correcta: 0
+    - respuesta: 4
+      correcta: 0
+    - respuesta: 3
+      correcta: 1
+    - respuesta: 1
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQui\xE9n dirigi\xF3 la pel\xEDcula 'Rescatando al soldado Ryan'?"
+    id: 8
+    respuestas:
+    - respuesta: John Ford
+      correcta: 0
+    - respuesta: Lewis Milestone
+      correcta: 0
+    - respuesta: Clint Eastwood
+      correcta: 0
+    - respuesta: Steven Spielberg
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQui\xE9n fue el primer presidente de los Estados Unidos?"
+    id: 9
+    respuestas:
+    - respuesta: Thomas Jefferson
+      correcta: 0
+    - respuesta: John Adams
+      correcta: 0
+    - respuesta: George Washington
+      correcta: 1
+    - respuesta: James Madison
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es el edificio m\xE1s alto de Estados Unidos?"
+    id: 10
+    respuestas:
+    - respuesta: Torre Willis
+      correcta: 0
+    - respuesta: Central Park Tower
+      correcta: 0
+    - respuesta: One WTC
+      correcta: 1
+    - respuesta: Steinway Tower
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFEn qu\xE9 ciudad se encuentra el puente de Brooklyn?"
+    id: 11
+    respuestas:
+    - respuesta: San Francisco
+      correcta: 0
+    - respuesta: Nueva York
+      correcta: 1
+    - respuesta: Chicago
+      correcta: 0
+    - respuesta: Las Vegas
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 pa\xEDs regal\xF3 la estatua de la Libertad a Estados Unidos?"
+    id: 12
+    respuestas:
+    - respuesta: "Espa\xF1a"
+      correcta: 0
+    - respuesta: "Canad\xE1"
+      correcta: 0
+    - respuesta: Inglaterra
+      correcta: 0
+    - respuesta: Francia
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 rostro no est\xE1 en el Monte Rushmore?"
+    id: 13
+    respuestas:
+    - respuesta: Washington
+      correcta: 0
+    - respuesta: John Adams
+      correcta: 1
+    - respuesta: Lincoln
+      correcta: 0
+    - respuesta: Roosevelt
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 comunidad cre\xF3 el blues en Estados Unidos?"
+    id: 14
+    respuestas:
+    - respuesta: Afroamericana
+      correcta: 1
+    - respuesta: Indonesa
+      correcta: 0
+    - respuesta: Francesa
+      correcta: 0
+    - respuesta: Canadiense
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 instrumento no es com\xFAn en el jazz?"
+    id: 15
+    respuestas:
+    - respuesta: Arpa
+      correcta: 1
+    - respuesta: Guitarra
+      correcta: 0
+    - respuesta: "Saxof\xF3n"
+      correcta: 0
+    - respuesta: Piano
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 baile se hizo popular en los a\xF1os 90 en Estados Unidos?"
+    id: 16
+    respuestas:
+    - respuesta: Square Dance
+      correcta: 0
+    - respuesta: Lindy Hop
+      correcta: 0
+    - respuesta: Hip Hop
+      correcta: 1
+    - respuesta: Vals
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQu\xE9 alimento se identifica m\xE1s con Estados Unidos?"
+    id: 17
+    respuestas:
+    - respuesta: Pollo Frito
+      correcta: 0
+    - respuesta: Papas Fritas
+      correcta: 0
+    - respuesta: Hamburguesa
+      correcta: 1
+    - respuesta: Hot Dog
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQu\xE9 deporte no es tan popular en Estados Unidos?"
+    id: 18
+    respuestas:
+    - respuesta: "B\xE9isbol"
+      correcta: 0
+    - respuesta: Baloncesto
+      correcta: 0
+    - respuesta: "F\xFAtbol americano"
+      correcta: 0
+    - respuesta: Ciclismo
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1l de estos personajes no pertenece a DC Comics?"
+    id: 19
+    respuestas:
+    - respuesta: Flash
+      correcta: 0
+    - respuesta: Superman
+      correcta: 0
+    - respuesta: Batman
+      correcta: 0
+    - respuesta: Spider-Man
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1l es el estado m\xE1s grande de Estados Unidos?"
+    id: 20
+    respuestas:
+    - respuesta: Montana
+      correcta: 0
+    - respuesta: California
+      correcta: 0
+    - respuesta: Texas
+      correcta: 0
+    - respuesta: Alaska
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 oc\xE9ano se encuentra al este de Estados Unidos?"
+    id: 21
+    respuestas:
+    - respuesta: "Pac\xEDfico"
+      correcta: 0
+    - respuesta: "Atl\xE1ntico"
+      correcta: 1
+    - respuesta: "\xCDndico"
+      correcta: 0
+    - respuesta: "\xC1rtico"
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1l es el r\xEDo m\xE1s largo de Estados Unidos?"
+    id: 22
+    respuestas:
+    - respuesta: Colorado
+      correcta: 0
+    - respuesta: Bravo
+      correcta: 0
+    - respuesta: Misuri
+      correcta: 0
+    - respuesta: Misisipi
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1l es el ave nacional estadounidense?"
+    id: 23
+    respuestas:
+    - respuesta: "\xC1guila calva"
+      correcta: 1
+    - respuesta: Buitre
+      correcta: 0
+    - respuesta: Cuervo
+      correcta: 0
+    - respuesta: Avestruz
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFCu\xE1l es el principal medio m\xF3vil estadounidense?"
+    id: 24
+    respuestas:
+    - respuesta: Bicicleta
+      correcta: 0
+    - respuesta: Tren
+      correcta: 0
+    - respuesta: "Autom\xF3vil"
+      correcta: 1
+    - respuesta: Camioneta
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQu\xE9 minor\xEDa racial es predominante en Estados Unidos?"
+    id: 25
+    respuestas:
+    - respuesta: "Alem\xE1n"
+      correcta: 0
+    - respuesta: "Asi\xE1tico"
+      correcta: 0
+    - respuesta: Afroamericano
+      correcta: 1
+    - respuesta: "Irland\xE9s"
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQu\xE9 idioma es el m\xE1s hablado en Estados Unidos?"
+    id: 26
+    respuestas:
+    - respuesta: "Franc\xE9s"
+      correcta: 0
+    - respuesta: Hawaiano
+      correcta: 0
+    - respuesta: "Espa\xF1ol"
+      correcta: 0
+    - respuesta: "Ingl\xE9s"
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 moneda se utiliza en Estados Unidos?"
+    id: 27
+    respuestas:
+    - respuesta: Real
+      correcta: 0
+    - respuesta: Euro
+      correcta: 0
+    - respuesta: "D\xF3lar"
+      correcta: 1
+    - respuesta: Rublo
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es la religi\xF3n predominante en Estados Unidos?"
+    id: 28
+    respuestas:
+    - respuesta: "Jud\xEDa"
+      correcta: 0
+    - respuesta: Islam
+      correcta: 0
+    - respuesta: Cristiana
+      correcta: 1
+    - respuesta: Hinduismo
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQui\xE9n dijo la popular frase 'Yo tengo un sue\xF1o'?"
+    id: 29
+    respuestas:
+    - respuesta: Bill Clinton
+      correcta: 0
+    - respuesta: Barack Obama
+      correcta: 0
+    - respuesta: J. F. Kennedy
+      correcta: 0
+    - respuesta: Luther King
+      correcta: 1
+    previusChanges: 00000001

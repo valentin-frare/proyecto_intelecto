@@ -1,0 +1,4 @@
+repository "proyecto_intelecto@unity_DF7C083EEDE4AE53DF66@cloud"
+  path "/"
+    br "/main"
+    co "/main"

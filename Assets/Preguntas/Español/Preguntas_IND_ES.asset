@@ -1,0 +1,375 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 422427d9eb81f684287115b868d210f8, type: 3}
+  m_Name: Preguntas_IND_ES
+  m_EditorClassIdentifier: 
+  Preguntas:
+  - pregunta: "\xBFCu\xE1ntas pel\xEDculas hace Bollywood al a\xF1o en promedio?"
+    id: 0
+    respuestas:
+    - respuesta: 1000
+      correcta: 1
+    - respuesta: 25
+      correcta: 0
+    - respuesta: 89
+      correcta: 0
+    - respuesta: 10001
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 animal se considera sagrado en la India?"
+    id: 1
+    respuestas:
+    - respuesta: Perro
+      correcta: 0
+    - respuesta: Toro
+      correcta: 0
+    - respuesta: Vaca
+      correcta: 1
+    - respuesta: Gato
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es la religi\xF3n m\xE1s practicada de la India?"
+    id: 2
+    respuestas:
+    - respuesta: Jainismo
+      correcta: 0
+    - respuesta: Budismo
+      correcta: 0
+    - respuesta: Sijismo
+      correcta: 0
+    - respuesta: Hinduismo
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQui\xE9n fund\xF3 el budismo?"
+    id: 3
+    respuestas:
+    - respuesta: Buddha
+      correcta: 1
+    - respuesta: Ashoka
+      correcta: 0
+    - respuesta: Kanishka
+      correcta: 0
+    - respuesta: Khamhaeng
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 idioma es el m\xE1s hablando en India?"
+    id: 4
+    respuestas:
+    - respuesta: "Guyarat\xED"
+      correcta: 0
+    - respuesta: Hindi
+      correcta: 1
+    - respuesta: "Bengal\xED"
+      correcta: 0
+    - respuesta: "Marat\xED"
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 significa Ahimsa?"
+    id: 5
+    respuestas:
+    - respuesta: "Esp\xEDritu"
+      correcta: 0
+    - respuesta: Universo
+      correcta: 0
+    - respuesta: No violencia
+      correcta: 1
+    - respuesta: Trascendencia
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es el saludo t\xEDpico de la India?"
+    id: 6
+    respuestas:
+    - respuesta: "N\xE1maste"
+      correcta: 1
+    - respuesta: Avatar
+      correcta: 0
+    - respuesta: Hanuman
+      correcta: 0
+    - respuesta: Mandala
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "Palabra india que indica que toda acci\xF3n tiene una reacci\xF3n"
+    id: 7
+    respuestas:
+    - respuesta: Karma
+      correcta: 1
+    - respuesta: Nirvana
+      correcta: 0
+    - respuesta: Shanti
+      correcta: 0
+    - respuesta: Veda
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFEn qu\xE9 lugar arrib\xF3 Col\xF3n pensando que estaba en la India?"
+    id: 8
+    respuestas:
+    - respuesta: Caribe
+      correcta: 1
+    - respuesta: "\xC1frica"
+      correcta: 0
+    - respuesta: "Norteam\xE9rica"
+      correcta: 0
+    - respuesta: Australia
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 monumento es tur\xEDsticamente importante en India?"
+    id: 9
+    respuestas:
+    - respuesta: Taj Mahal
+      correcta: 1
+    - respuesta: Jama Masjid
+      correcta: 0
+    - respuesta: Hawa Mahal
+      correcta: 0
+    - respuesta: Karni Mata
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 texto hinduista trata sobre el comportamiento sexual humano?"
+    id: 10
+    respuestas:
+    - respuesta: Rig-veda
+      correcta: 0
+    - respuesta: Kama-sutra
+      correcta: 1
+    - respuesta: Ramayana
+      correcta: 0
+    - respuesta: "Guit\xE1 Govinda"
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1l es la capital de la India?"
+    id: 11
+    respuestas:
+    - respuesta: Bombay
+      correcta: 0
+    - respuesta: Nueva Delhi
+      correcta: 1
+    - respuesta: Calcuta
+      correcta: 0
+    - respuesta: Agra
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFEn qu\xE9 ciudad se encuentra Bollywood?"
+    id: 12
+    respuestas:
+    - respuesta: Bombay
+      correcta: 1
+    - respuesta: Nueva Delhi
+      correcta: 0
+    - respuesta: Calcuta
+      correcta: 0
+    - respuesta: Agra
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 tipo de fibra textil se usa en indumentarias indias?"
+    id: 13
+    respuestas:
+    - respuesta: Cuero
+      correcta: 0
+    - respuesta: Seda
+      correcta: 0
+    - respuesta: "Algod\xF3n"
+      correcta: 1
+    - respuesta: Lana
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFDe qu\xE9 color es el 'bindi'?"
+    id: 14
+    respuestas:
+    - respuesta: Naranja
+      correcta: 0
+    - respuesta: Verde
+      correcta: 0
+    - respuesta: Azul
+      correcta: 0
+    - respuesta: Rojo
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFEn qu\xE9 a\xF1o sucedi\xF3 la 'marcha de la sal'?"
+    id: 15
+    respuestas:
+    - respuesta: 1930
+      correcta: 1
+    - respuesta: 1939
+      correcta: 0
+    - respuesta: 1945
+      correcta: 0
+    - respuesta: 1932
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 corriente de pensamiento ten\xEDa Gandhi?"
+    id: 16
+    respuestas:
+    - respuesta: Pragmatismo
+      correcta: 0
+    - respuesta: Cinismo
+      correcta: 0
+    - respuesta: Pacifismo
+      correcta: 1
+    - respuesta: Relativismo
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFC\xF3mo muri\xF3 Gandhi?"
+    id: 17
+    respuestas:
+    - respuesta: Ahogamiento
+      correcta: 0
+    - respuesta: "C\xE1ncer"
+      correcta: 0
+    - respuesta: "Paro card\xEDaco"
+      correcta: 0
+    - respuesta: Asesinato
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 se suele usar para comer en la India?"
+    id: 18
+    respuestas:
+    - respuesta: Palillos
+      correcta: 0
+    - respuesta: Cuchara
+      correcta: 0
+    - respuesta: Tenedor
+      correcta: 0
+    - respuesta: Manos
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1l es la moneda oficial de la India?"
+    id: 19
+    respuestas:
+    - respuesta: Tugrik
+      correcta: 0
+    - respuesta: Renminbi
+      correcta: 0
+    - respuesta: Rublo
+      correcta: 0
+    - respuesta: Rupia
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFEn qu\xE9 estaci\xF3n del a\xF1o se celebra el Holi?"
+    id: 20
+    respuestas:
+    - respuesta: Primavera
+      correcta: 1
+    - respuesta: "Oto\xF1o"
+      correcta: 0
+    - respuesta: Verano
+      correcta: 0
+    - respuesta: Invierno
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFCu\xE1ntos rayos tiene la rueda central de la bandera india?"
+    id: 21
+    respuestas:
+    - respuesta: 48
+      correcta: 0
+    - respuesta: 12
+      correcta: 0
+    - respuesta: 36
+      correcta: 0
+    - respuesta: 24
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1l es el animal nacional de la India?"
+    id: 22
+    respuestas:
+    - respuesta: Leopardo
+      correcta: 0
+    - respuesta: Trige
+      correcta: 1
+    - respuesta: Vaca
+      correcta: 0
+    - respuesta: Gato
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1l es el ave nacional de la India?"
+    id: 23
+    respuestas:
+    - respuesta: "\xC1guila"
+      correcta: 0
+    - respuesta: Paloma
+      correcta: 0
+    - respuesta: Perdiz
+      correcta: 0
+    - respuesta: Pavo real
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 famosa cordillera est\xE1 tambi\xE9n en la India?"
+    id: 24
+    respuestas:
+    - respuesta: "C\xE1ucaso"
+      correcta: 0
+    - respuesta: Andes
+      correcta: 0
+    - respuesta: Apalaches
+      correcta: 0
+    - respuesta: Himalaya
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1ntas estaciones tiene la India?"
+    id: 25
+    respuestas:
+    - respuesta: 8
+      correcta: 0
+    - respuesta: 2
+      correcta: 0
+    - respuesta: 4
+      correcta: 0
+    - respuesta: 6
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFEn qu\xE9 posici\xF3n se encuentra India en poblaci\xF3n mundial?"
+    id: 26
+    respuestas:
+    - respuesta: 1
+      correcta: 0
+    - respuesta: 2
+      correcta: 1
+    - respuesta: 3
+      correcta: 0
+    - respuesta: 4
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 animal se considera sagrado en la India?"
+    id: 27
+    respuestas:
+    - respuesta: Perro
+      correcta: 0
+    - respuesta: Toro
+      correcta: 0
+    - respuesta: Vaca
+      correcta: 1
+    - respuesta: Gato
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es la ciudad india con m\xE1s poblaci\xF3n?"
+    id: 28
+    respuestas:
+    - respuesta: Delhi
+      correcta: 0
+    - respuesta: Bombay
+      correcta: 1
+    - respuesta: Bangalore
+      correcta: 0
+    - respuesta: Calcuta
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1l es el deporte nacional de la India?"
+    id: 29
+    respuestas:
+    - respuesta: "Hockey-c\xE9sped"
+      correcta: 1
+    - respuesta: "Cr\xEDquet"
+      correcta: 0
+    - respuesta: Tenis
+      correcta: 0
+    - respuesta: "F\xFAtbol"
+      correcta: 0
+    previusChanges: 01000000

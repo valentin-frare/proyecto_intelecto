@@ -1,0 +1,376 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 422427d9eb81f684287115b868d210f8, type: 3}
+  m_Name: Preguntas_SUD_ES
+  m_EditorClassIdentifier: 
+  Preguntas:
+  - pregunta: "\xBFCu\xE1ntas capitales tiene Sudr\xE1frica?"
+    id: 0
+    respuestas:
+    - respuesta: 2
+      correcta: 0
+    - respuesta: 4
+      correcta: 0
+    - respuesta: 3
+      correcta: 1
+    - respuesta: 1
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es el idioma m\xE1s hablado de Sud\xE1frica?"
+    id: 1
+    respuestas:
+    - respuesta: "Ingl\xE9s"
+      correcta: 0
+    - respuesta: Xhosa
+      correcta: 0
+    - respuesta: "Afrik\xE1ans"
+      correcta: 0
+    - respuesta: "Zul\xFA"
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 idioma se considera no oficial en Sud\xE1frica?"
+    id: 2
+    respuestas:
+    - respuesta: Sesoto
+      correcta: 0
+    - respuesta: "Afrik\xE1ans"
+      correcta: 0
+    - respuesta: Xhosa
+      correcta: 0
+    - respuesta: Nama
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1ntos idiomas oficiales tiene Sud\xE1frica?"
+    id: 3
+    respuestas:
+    - respuesta: 8
+      correcta: 0
+    - respuesta: 10
+      correcta: 0
+    - respuesta: 11
+      correcta: 1
+    - respuesta: 5
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQu\xE9 clase social predomina para los blancos en Sud\xE1frica?"
+    id: 4
+    respuestas:
+    - respuesta: Baja
+      correcta: 0
+    - respuesta: Alta
+      correcta: 0
+    - respuesta: Media
+      correcta: 1
+    - respuesta: "Burgues\xEDa"
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFC\xF3mo se llamaba la segregaci\xF3n racial que sufri\xF3 Sud\xE1frica?"
+    id: 5
+    respuestas:
+    - respuesta: Leyes Jim Crow
+      correcta: 0
+    - respuesta: Apartheid
+      correcta: 1
+    - respuesta: "Leyes de N\xFAremberg"
+      correcta: 0
+    - respuesta: Insignia amarilla
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFHace cu\xE1ntos a\xF1os se hallaron restos humanos en Sud\xE1frica?"
+    id: 6
+    respuestas:
+    - respuesta: 75.000
+      correcta: 1
+    - respuesta: 60.000
+      correcta: 0
+    - respuesta: 80.000
+      correcta: 0
+    - respuesta: 50.000
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 trasplante se realiz\xF3 por primera vez en Sud\xE1frica?"
+    id: 7
+    respuestas:
+    - respuesta: "H\xEDgado"
+      correcta: 0
+    - respuesta: "Coraz\xF3n"
+      correcta: 1
+    - respuesta: "Ri\xF1\xF3n"
+      correcta: 0
+    - respuesta: "Pulm\xF3n"
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 vacuna se cre\xF3 en Sud\xE1frica?"
+    id: 8
+    respuestas:
+    - respuesta: "T\xE9tanos"
+      correcta: 0
+    - respuesta: Rubeola
+      correcta: 0
+    - respuesta: Tuberculosis
+      correcta: 0
+    - respuesta: Fiebre amarilla
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 m\xE9todo de estudio del ADN cre\xF3 Aaron Klug?"
+    id: 9
+    respuestas:
+    - respuesta: Electroforesis
+      correcta: 0
+    - respuesta: "Clonaci\xF3n"
+      correcta: 0
+    - respuesta: "Secuenciaci\xF3n"
+      correcta: 0
+    - respuesta: "Cristalogr\xE1fico"
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFEn qu\xE9 otro pa\xEDs, adem\xE1s de Sud\xE1frica, sucedi\xF3
+      el Apartheid?"
+    id: 10
+    respuestas:
+    - respuesta: Mozambique
+      correcta: 0
+    - respuesta: Namibia
+      correcta: 1
+    - respuesta: Botsuana
+      correcta: 0
+    - respuesta: Zimbabue
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFA qu\xE9 pa\xEDs rodea completamente Sud\xE1frica?"
+    id: 11
+    respuestas:
+    - respuesta: Botsuana
+      correcta: 0
+    - respuesta: Lesoto
+      correcta: 1
+    - respuesta: Zimbabue
+      correcta: 0
+    - respuesta: Namibia
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFEn qu\xE9 a\xF1o se aboli\xF3 el Apartheid?"
+    id: 12
+    respuestas:
+    - respuesta: 1990
+      correcta: 0
+    - respuesta: 1993
+      correcta: 0
+    - respuesta: 1992
+      correcta: 0
+    - respuesta: 1994
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1l es la ciudad m\xE1s poblada de Sud\xE1frica?"
+    id: 13
+    respuestas:
+    - respuesta: Pretoria
+      correcta: 0
+    - respuesta: Johannesburgo
+      correcta: 1
+    - respuesta: Ciudad del Cabo
+      correcta: 0
+    - respuesta: Bloemfontein
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 pa\xEDs no est\xE1 al norte del Sud\xE1frica?"
+    id: 14
+    respuestas:
+    - respuesta: Botsuana
+      correcta: 0
+    - respuesta: Suazilandia
+      correcta: 1
+    - respuesta: Namibia
+      correcta: 0
+    - respuesta: Zimbabue
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "A sud\xE1frica se lo conoce como la naci\xF3n..."
+    id: 15
+    respuestas:
+    - respuesta: "Multi\xE9tnica"
+      correcta: 0
+    - respuesta: Diversa
+      correcta: 0
+    - respuesta: "Arco\xEDris"
+      correcta: 1
+    - respuesta: Multicultural
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es la monta\xF1a m\xE1s alta de Sud\xE1frica?"
+    id: 16
+    respuestas:
+    - respuesta: Emlembe
+      correcta: 0
+    - respuesta: Mafadi
+      correcta: 1
+    - respuesta: Devil's Peak
+      correcta: 0
+    - respuesta: Njesuthi
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFEn qu\xE9 a\xF1o fue la copa del mundo de f\xFAtbol en Sud\xE1frica?"
+    id: 17
+    respuestas:
+    - respuesta: 2018
+      correcta: 0
+    - respuesta: 2014
+      correcta: 0
+    - respuesta: 2010
+      correcta: 1
+    - respuesta: 2006
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1nta desigualdad hay en Sud\xE1frica (coeficiente de Gini)?"
+    id: 18
+    respuestas:
+    - respuesta: Media
+      correcta: 0
+    - respuesta: Alta
+      correcta: 0
+    - respuesta: Muy alta
+      correcta: 1
+    - respuesta: Baja
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es la moneda oficial de Sud\xE1frica?"
+    id: 19
+    respuestas:
+    - respuesta: Pula
+      correcta: 0
+    - respuesta: Kwanza
+      correcta: 0
+    - respuesta: Rand
+      correcta: 1
+    - respuesta: Nafka
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQu\xE9 uso horario tiene Sud\xE1frica?"
+    id: 20
+    respuestas:
+    - respuesta: UTC+2
+      correcta: 1
+    - respuesta: UTC+1
+      correcta: 0
+    - respuesta: UTC+3
+      correcta: 0
+    - respuesta: UTC+4
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 dominio de Internet tiene Sud\xE1frica?"
+    id: 21
+    respuestas:
+    - respuesta: .zw
+      correcta: 0
+    - respuesta: .sd
+      correcta: 0
+    - respuesta: .za
+      correcta: 1
+    - respuesta: .sa
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1ntas provincias tiene Sud\xE1frica?"
+    id: 22
+    respuestas:
+    - respuesta: 7
+      correcta: 0
+    - respuesta: 14
+      correcta: 0
+    - respuesta: 11
+      correcta: 0
+    - respuesta: 9
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 bioma es el prevalente en Sud\xE1frica?"
+    id: 23
+    respuestas:
+    - respuesta: Bosque
+      correcta: 0
+    - respuesta: Pradera
+      correcta: 1
+    - respuesta: Sabana
+      correcta: 0
+    - respuesta: Desierto
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 religi\xF3n es la predominante en Sud\xE1frica?"
+    id: 24
+    respuestas:
+    - respuesta: Tradicional africana
+      correcta: 0
+    - respuesta: Islam
+      correcta: 0
+    - respuesta: "Jud\xEDa"
+      correcta: 0
+    - respuesta: Cristiana
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1ntos a\xF1os estuvo preso Nelson Mandela?"
+    id: 25
+    respuestas:
+    - respuesta: 30
+      correcta: 0
+    - respuesta: 27
+      correcta: 1
+    - respuesta: 25
+      correcta: 0
+    - respuesta: 21
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1ntos nombres tuvo Mandela?"
+    id: 26
+    respuestas:
+    - respuesta: 2
+      correcta: 0
+    - respuesta: 1
+      correcta: 0
+    - respuesta: 6
+      correcta: 1
+    - respuesta: 3
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQu\xE9 deporte le interesaba m\xE1s a Mandela?"
+    id: 27
+    respuestas:
+    - respuesta: "Nataci\xF3n"
+      correcta: 0
+    - respuesta: "B\xE9isbol"
+      correcta: 0
+    - respuesta: Boxeo
+      correcta: 1
+    - respuesta: "F\xFAtbol"
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es el principal problema sanitario de Sud\xE1frica?"
+    id: 28
+    respuestas:
+    - respuesta: Gripe A
+      correcta: 0
+    - respuesta: Sida
+      correcta: 1
+    - respuesta: COVID-19
+      correcta: 0
+    - respuesta: "\xC9bola"
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1l es el deporte nacional de Sud\xE1frica?"
+    id: 29
+    respuestas:
+    - respuesta: Golf
+      correcta: 0
+    - respuesta: "F\xFAtbol"
+      correcta: 0
+    - respuesta: "Cr\xEDquet"
+      correcta: 0
+    - respuesta: Rugby
+      correcta: 1
+    previusChanges: 00000001

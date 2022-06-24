@@ -1,0 +1,376 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 422427d9eb81f684287115b868d210f8, type: 3}
+  m_Name: Preguntas_JPN_ES
+  m_EditorClassIdentifier: 
+  Preguntas:
+  - pregunta: "\xBFCu\xE1l es la ciudad m\xE1s poblada de Jap\xF3n?"
+    id: 0
+    respuestas:
+    - respuesta: Kioto
+      correcta: 0
+    - respuesta: Tokio
+      correcta: 1
+    - respuesta: Osaka
+      correcta: 0
+    - respuesta: Kamakura
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1ntas m\xE1quinas expendedores hay en promedio en Jap\xF3n?"
+    id: 1
+    respuestas:
+    - respuesta: 10 millones
+      correcta: 0
+    - respuesta: "1 mill\xF3n"
+      correcta: 0
+    - respuesta: 5 millones
+      correcta: 1
+    - respuesta: 3 millones
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFEn qu\xE9 oc\xE9ano se encuentra Jap\xF3n?"
+    id: 2
+    respuestas:
+    - respuesta: "\xC1rtico"
+      correcta: 0
+    - respuesta: "\xCDndico"
+      correcta: 0
+    - respuesta: "Atl\xE1ntico"
+      correcta: 0
+    - respuesta: "Pac\xEDfico"
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 pol\xEDtica de aislamiento se utiliz\xF3 en Jap\xF3n en
+      1963?"
+    id: 3
+    respuestas:
+    - respuesta: Daimyo
+      correcta: 0
+    - respuesta: Bakufu
+      correcta: 0
+    - respuesta: Sakoku
+      correcta: 1
+    - respuesta: Ryukyu
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l no se considera un valor japon\xE9s?"
+    id: 4
+    respuestas:
+    - respuesta: Honor
+      correcta: 0
+    - respuesta: Deber
+      correcta: 0
+    - respuesta: Conquista
+      correcta: 1
+    - respuesta: "Obligaci\xF3n"
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQu\xE9 idioma es el m\xE1s hablado en Jap\xF3n?"
+    id: 5
+    respuestas:
+    - respuesta: "Espa\xF1ol"
+      correcta: 0
+    - respuesta: "Ingl\xE9s"
+      correcta: 0
+    - respuesta: Chino
+      correcta: 0
+    - respuesta: "Japon\xE9s"
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1l es la religi\xF3n nativa japonesa?"
+    id: 6
+    respuestas:
+    - respuesta: "Baha\xEDsmo"
+      correcta: 0
+    - respuesta: "Tao\xEDsmo"
+      correcta: 0
+    - respuesta: Budismo
+      correcta: 0
+    - respuesta: "Sinto\xEDsmo"
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 bebia se utiliza ceremonialmente en Jap\xF3n?"
+    id: 7
+    respuestas:
+    - respuesta: Vino
+      correcta: 0
+    - respuesta: Agua
+      correcta: 0
+    - respuesta: "Caf\xE9"
+      correcta: 0
+    - respuesta: "T\xE9"
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFC\xF3mo se dice 'tierno' en japon\xE9s?"
+    id: 8
+    respuestas:
+    - respuesta: Kawaii
+      correcta: 1
+    - respuesta: Arigatou
+      correcta: 0
+    - respuesta: Chikara
+      correcta: 0
+    - respuesta: Mamoru
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFC\xF3mo se dice 'gracias' en japon\xE9s?"
+    id: 9
+    respuestas:
+    - respuesta: Arigatou
+      correcta: 1
+    - respuesta: Kawaii
+      correcta: 0
+    - respuesta: Chikara
+      correcta: 0
+    - respuesta: Mamoru
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFCu\xE1l es la herramienta de escritura tradicional japonesa?"
+    id: 10
+    respuestas:
+    - respuesta: Pincel
+      correcta: 1
+    - respuesta: Pluma
+      correcta: 0
+    - respuesta: "L\xE1piz"
+      correcta: 0
+    - respuesta: Dedo
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 material de construcci\xF3n es tradicional en Jap\xF3n?"
+    id: 11
+    respuestas:
+    - respuesta: Ladrillo
+      correcta: 0
+    - respuesta: Piedra
+      correcta: 0
+    - respuesta: Madera
+      correcta: 1
+    - respuesta: Carbono
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQu\xE9 pa\xEDs influenci\xF3 mayormente la arquitectura japonesa?"
+    id: 12
+    respuestas:
+    - respuesta: Rusia
+      correcta: 0
+    - respuesta: Mongolia
+      correcta: 0
+    - respuesta: China
+      correcta: 1
+    - respuesta: Corea
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es el vestido tradicional japon\xE9s?"
+    id: 13
+    respuestas:
+    - respuesta: Kimono
+      correcta: 1
+    - respuesta: Yukata
+      correcta: 0
+    - respuesta: Hakama
+      correcta: 0
+    - respuesta: Ganguro
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 moda inici\xF3 Jap\xF3n en el a\xF1o 1970?"
+    id: 14
+    respuestas:
+    - respuesta: Trendy
+      correcta: 0
+    - respuesta: Hipster
+      correcta: 0
+    - respuesta: Crossplay
+      correcta: 0
+    - respuesta: Cosplay
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 plato japon\xE9s m\xE1s reconocido mundialmente?"
+    id: 15
+    respuestas:
+    - respuesta: Kaiseki
+      correcta: 0
+    - respuesta: Sushi
+      correcta: 1
+    - respuesta: Osechi
+      correcta: 0
+    - respuesta: Soba
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1ntas m\xE1quinas expendedores hay en promedio en Jap\xF3n?"
+    id: 16
+    respuestas:
+    - respuesta: 10 millones
+      correcta: 0
+    - respuesta: "1 mill\xF3n"
+      correcta: 0
+    - respuesta: 5 millones
+      correcta: 1
+    - respuesta: 3 millones
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQu\xE9 medio de comunicaci\xF3n es popular en Jap\xF3n?"
+    id: 17
+    respuestas:
+    - respuesta: Radio
+      correcta: 0
+    - respuesta: "Televisi\xF3n"
+      correcta: 1
+    - respuesta: Revista
+      correcta: 0
+    - respuesta: "Peri\xF3dico"
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 forma de canto se origin\xF3 en Jap\xF3n?"
+    id: 18
+    respuestas:
+    - respuesta: Oratorio
+      correcta: 0
+    - respuesta: Karaoke
+      correcta: 1
+    - respuesta: "\xD3pera"
+      correcta: 0
+    - respuesta: Coro
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1l es la capital de Jap\xF3n?"
+    id: 19
+    respuestas:
+    - respuesta: Kioto
+      correcta: 0
+    - respuesta: Tokio
+      correcta: 1
+    - respuesta: Yokohama
+      correcta: 0
+    - respuesta: Osaka
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFC\xF3mo se le llama al c\xF3mic japon\xE9s?"
+    id: 20
+    respuestas:
+    - respuesta: Kaiju
+      correcta: 0
+    - respuesta: Benshi
+      correcta: 0
+    - respuesta: Anime
+      correcta: 0
+    - respuesta: Manga
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1l es el arte marcial m\xE1s tradicional en Jap\xF3n?"
+    id: 21
+    respuestas:
+    - respuesta: Kendo
+      correcta: 0
+    - respuesta: Karate
+      correcta: 0
+    - respuesta: Sumo
+      correcta: 1
+    - respuesta: Judo
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQu\xE9 deporte occidental es m\xE1s practicado en Jap\xF3n?"
+    id: 22
+    respuestas:
+    - respuesta: "B\xE9isbol"
+      correcta: 1
+    - respuesta: "F\xFAtbol"
+      correcta: 0
+    - respuesta: Rugby
+      correcta: 0
+    - respuesta: Automovilismo
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 n\xFAmero no da mala suerte en Jap\xF3n?"
+    id: 23
+    respuestas:
+    - respuesta: 43
+      correcta: 0
+    - respuesta: 72
+      correcta: 1
+    - respuesta: 4
+      correcta: 0
+    - respuesta: 9
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 moneda se utiliza en Jap\xF3n?"
+    id: 24
+    respuestas:
+    - respuesta: "D\xF3lar"
+      correcta: 0
+    - respuesta: Rupia
+      correcta: 0
+    - respuesta: Rublo
+      correcta: 0
+    - respuesta: Yen
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFC\xF3mo se llamaban los mercernarios en el antiguo Jap\xF3n?"
+    id: 25
+    respuestas:
+    - respuesta: Gladiador
+      correcta: 0
+    - respuesta: "Samur\xE1i"
+      correcta: 0
+    - respuesta: Ninja
+      correcta: 1
+    - respuesta: Gurkha
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFC\xF3mo se llamaba el ritual de muerte de los samur\xE1i?"
+    id: 26
+    respuestas:
+    - respuesta: Zen
+      correcta: 0
+    - respuesta: Harakiri
+      correcta: 1
+    - respuesta: Shudo
+      correcta: 0
+    - respuesta: Noh
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 empresa no es de Jap\xF3n"
+    id: 27
+    respuestas:
+    - respuesta: Honda
+      correcta: 0
+    - respuesta: Toyota
+      correcta: 0
+    - respuesta: NIO
+      correcta: 1
+    - respuesta: Mitsubishi
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQu\xE9 empresa de videojuegos no es japon\xE9s?"
+    id: 28
+    respuestas:
+    - respuesta: Nintendo
+      correcta: 0
+    - respuesta: Tencent
+      correcta: 1
+    - respuesta: Sony
+      correcta: 0
+    - respuesta: CAPCOM
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1l fue la \xFAltima pel\xEDcula dirigida por Akira Kurosawa?"
+    id: 29
+    respuestas:
+    - respuesta: Madadayo
+      correcta: 1
+    - respuesta: Yume
+      correcta: 0
+    - respuesta: Ran
+      correcta: 0
+    - respuesta: Yojimbo
+      correcta: 0
+    previusChanges: 01000000

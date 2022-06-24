@@ -1,0 +1,375 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 422427d9eb81f684287115b868d210f8, type: 3}
+  m_Name: Preguntas_AUS_ES
+  m_EditorClassIdentifier: 
+  Preguntas:
+  - pregunta: "\xBFEn qu\xE9 a\xF1o se dio el derecho al voto a las mujeres en Australia?"
+    id: 0
+    respuestas:
+    - respuesta: 1988
+      correcta: 0
+    - respuesta: 1879
+      correcta: 0
+    - respuesta: 1951
+      correcta: 0
+    - respuesta: 1902
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1l es la capital de Australia?"
+    id: 1
+    respuestas:
+    - respuesta: Canberra
+      correcta: 1
+    - respuesta: "S\xEDdney"
+      correcta: 0
+    - respuesta: Melbourne
+      correcta: 0
+    - respuesta: Darwin
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 pa\xEDs coloniz\xF3 Australia?"
+    id: 2
+    respuestas:
+    - respuesta: Inglaterra
+      correcta: 1
+    - respuesta: "Espa\xF1a"
+      correcta: 0
+    - respuesta: Francia
+      correcta: 0
+    - respuesta: Italia
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 grupo musical es de Australia?"
+    id: 3
+    respuestas:
+    - respuesta: The Beatles
+      correcta: 0
+    - respuesta: U2
+      correcta: 0
+    - respuesta: Guns N' Roses
+      correcta: 0
+    - respuesta: AC/DC
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1l fue el forajido m\xE1s conocido de Australia?"
+    id: 4
+    respuestas:
+    - respuesta: El loco Clay
+      correcta: 0
+    - respuesta: "Billy el Ni\xF1o"
+      correcta: 0
+    - respuesta: Ned Kelly
+      correcta: 1
+    - respuesta: Jesey James
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1ndo comenz\xF3 la fiebre del oro australiana?"
+    id: 5
+    respuestas:
+    - respuesta: 1863
+      correcta: 0
+    - respuesta: 1870
+      correcta: 0
+    - respuesta: 1851
+      correcta: 1
+    - respuesta: 1855
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQu\xE9 arma se considera s\xEDmbolo en Australia?"
+    id: 6
+    respuestas:
+    - respuesta: Arco
+      correcta: 0
+    - respuesta: Ballesta
+      correcta: 0
+    - respuesta: Jabalina
+      correcta: 0
+    - respuesta: "B\xFAmeran"
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1ntas lenguas abor\xEDgenes existieron en Australia?"
+    id: 7
+    respuestas:
+    - respuesta: Unos 100
+      correcta: 0
+    - respuesta: Menos de 50
+      correcta: 0
+    - respuesta: "M\xE1s de 200"
+      correcta: 1
+    - respuesta: Unos 150
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es la religi\xF3n oficial de estado de Australia?"
+    id: 8
+    respuestas:
+    - respuesta: Ninguna
+      correcta: 1
+    - respuesta: Cristiana
+      correcta: 0
+    - respuesta: Mormona
+      correcta: 0
+    - respuesta: Evangelista
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFCu\xE1l es el instrumento aborigen australiano m\xE1s conocido?"
+    id: 9
+    respuestas:
+    - respuesta: Quena
+      correcta: 0
+    - respuesta: Clarinete
+      correcta: 0
+    - respuesta: "Diyerid\xFA "
+      correcta: 1
+    - respuesta: Cuerno
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQu\xE9 actor de cine naci\xF3 en Australia?"
+    id: 10
+    respuestas:
+    - respuesta: Tom Hardy
+      correcta: 0
+    - respuesta: Mel Gibson
+      correcta: 0
+    - respuesta: Hugh Jackman
+      correcta: 1
+    - respuesta: Hugh Laurie
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es el animal m\xE1s representativo de Australia?"
+    id: 11
+    respuestas:
+    - respuesta: Anaconda
+      correcta: 0
+    - respuesta: Avestruz
+      correcta: 0
+    - respuesta: Canguro
+      correcta: 1
+    - respuesta: "Tar\xE1ntula"
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFEn qu\xE9 zona viven mayormente los australianos?"
+    id: 12
+    respuestas:
+    - respuesta: Norte
+      correcta: 0
+    - respuesta: Costa
+      correcta: 1
+    - respuesta: Centro
+      correcta: 0
+    - respuesta: Oeste
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1l es la isla m\xE1s grande de Australia?"
+    id: 13
+    respuestas:
+    - respuesta: Melville
+      correcta: 0
+    - respuesta: Tasmania
+      correcta: 1
+    - respuesta: Canguro
+      correcta: 0
+    - respuesta: Groote Eylandt
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1l es el animal m\xE1s conocido de Tasmania?"
+    id: 14
+    respuestas:
+    - respuesta: Caguro
+      correcta: 0
+    - respuesta: Tigre
+      correcta: 0
+    - respuesta: Demonio
+      correcta: 1
+    - respuesta: Rata canguro
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1ntas islas pertenecen a Australia?"
+    id: 15
+    respuestas:
+    - respuesta: 8561
+      correcta: 0
+    - respuesta: 7898
+      correcta: 0
+    - respuesta: 8222
+      correcta: 1
+    - respuesta: 9239
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFA qu\xE9 continente pertenece Australia?"
+    id: 16
+    respuestas:
+    - respuesta: Asia
+      correcta: 0
+    - respuesta: "\xC1frica"
+      correcta: 0
+    - respuesta: Europa
+      correcta: 0
+    - respuesta: "Ocean\xEDa"
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1l es la ciudad m\xE1s popular de Australia?"
+    id: 17
+    respuestas:
+    - respuesta: Bisbane
+      correcta: 0
+    - respuesta: Melbourne
+      correcta: 0
+    - respuesta: "S\xEDdney"
+      correcta: 1
+    - respuesta: Perth
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es el plato t\xEDpico australiano?"
+    id: 18
+    respuestas:
+    - respuesta: Ravioles
+      correcta: 0
+    - respuesta: Pastel de carne
+      correcta: 1
+    - respuesta: Pollo frito
+      correcta: 0
+    - respuesta: "Salm\xF3n"
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFEn qu\xE9 ciudad australiana viven muchos griegos?"
+    id: 19
+    respuestas:
+    - respuesta: Canberra
+      correcta: 0
+    - respuesta: "S\xEDdney"
+      correcta: 0
+    - respuesta: Melbourne
+      correcta: 1
+    - respuesta: Gold Coast
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: A Steve Irwin se lo conoce como el cazador de...
+    id: 20
+    respuestas:
+    - respuesta: Canguros
+      correcta: 0
+    - respuesta: Cocodrilos
+      correcta: 1
+    - respuesta: Tigres
+      correcta: 0
+    - respuesta: Tiburones
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFA qu\xE9 profundidad se encuentra la roca de Uluru?"
+    id: 21
+    respuestas:
+    - respuesta: 2,23 km
+      correcta: 0
+    - respuesta: 1,5 km
+      correcta: 0
+    - respuesta: 1 km
+      correcta: 0
+    - respuesta: 2,5 km
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 animal caus\xF3 la muerte de Steve Irwin?"
+    id: 22
+    respuestas:
+    - respuesta: Raya
+      correcta: 1
+    - respuesta: Cocodrilo
+      correcta: 0
+    - respuesta: "Tibur\xF3n"
+      correcta: 0
+    - respuesta: Elefante
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFEn qu\xE9 a\xF1o se independiz\xF3 Australia?"
+    id: 23
+    respuestas:
+    - respuesta: 1986
+      correcta: 1
+    - respuesta: 1945
+      correcta: 0
+    - respuesta: 1952
+      correcta: 0
+    - respuesta: 1971
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFCu\xE1ntas fronteras tiene Australia con otros pa\xEDses?"
+    id: 24
+    respuestas:
+    - respuesta: 0
+      correcta: 1
+    - respuesta: 1
+      correcta: 0
+    - respuesta: 2
+      correcta: 0
+    - respuesta: 3
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 pa\xEDs tiene m\xE1s superficie que Australia?"
+    id: 25
+    respuestas:
+    - respuesta: "M\xE9xico"
+      correcta: 0
+    - respuesta: India
+      correcta: 0
+    - respuesta: Argentina
+      correcta: 0
+    - respuesta: Brasil
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFDe qu\xE9 palabra del lat\xEDn proviene Australia?"
+    id: 26
+    respuestas:
+    - respuesta: Agua
+      correcta: 0
+    - respuesta: "Oc\xE9ano"
+      correcta: 0
+    - respuesta: Isla
+      correcta: 0
+    - respuesta: "Sure\xF1o"
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFD\xF3nde se encuentra el estado de Queensland en Australia?"
+    id: 27
+    respuestas:
+    - respuesta: Oeste
+      correcta: 0
+    - respuesta: Noreste
+      correcta: 1
+    - respuesta: Sur
+      correcta: 0
+    - respuesta: Sureste
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1ntas regiones vin\xEDcolas tiene Australia?"
+    id: 28
+    respuestas:
+    - respuesta: 57
+      correcta: 0
+    - respuesta: "M\xE1s de 60"
+      correcta: 1
+    - respuesta: 52
+      correcta: 0
+    - respuesta: Menos de 50
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFEn qu\xE9 oc\xE9ano no se encuentra Australia?"
+    id: 29
+    respuestas:
+    - respuesta: "Pac\xEDfico"
+      correcta: 0
+    - respuesta: "Ant\xE1rtico"
+      correcta: 0
+    - respuesta: "Atl\xE1ntico"
+      correcta: 1
+    - respuesta: "\xCDndico"
+      correcta: 0
+    previusChanges: 00000100

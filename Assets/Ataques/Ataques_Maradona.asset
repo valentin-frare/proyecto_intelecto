@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e99c2f0a28158a479f52665188b8124, type: 3}
+  m_Name: Ataques_Maradona
+  m_EditorClassIdentifier: 
+  ataqueDebil:
+    animation: {fileID: 7400000, guid: 7c287f2c9bf976b4388e56beca35cb6b, type: 2}
+  ataqueNormal:
+    animation: {fileID: 7400000, guid: 8934b8d3401920e4388937c3e470f6f9, type: 2}
+  ataqueFuerte:
+    animation: {fileID: 7400000, guid: 26d8de4580c8d0e46a395d6285922ddb, type: 2}

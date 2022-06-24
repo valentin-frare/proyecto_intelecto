@@ -1,0 +1,376 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 422427d9eb81f684287115b868d210f8, type: 3}
+  m_Name: Preguntas_HOL_ES
+  m_EditorClassIdentifier: 
+  Preguntas:
+  - pregunta: "\xBFDe qu\xE9 otra forma se conoce el pa\xEDs de Holanda?"
+    id: 0
+    respuestas:
+    - respuesta: Tierras Inferiores
+      correcta: 0
+    - respuesta: Tierras Bajas
+      correcta: 0
+    - respuesta: "Pa\xEDses Altos"
+      correcta: 0
+    - respuesta: "Pa\xEDses Bajos"
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1l es el veh\xEDculo m\xE1s popular en Holanda?"
+    id: 1
+    respuestas:
+    - respuesta: "Monopat\xEDn"
+      correcta: 0
+    - respuesta: Bicicleta
+      correcta: 1
+    - respuesta: Motocicleta
+      correcta: 0
+    - respuesta: "Autom\xF3vil"
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1l es la religi\xF3n m\xE1s predominante en Holanda?"
+    id: 2
+    respuestas:
+    - respuesta: "Sin religi\xF3n"
+      correcta: 1
+    - respuesta: "Cat\xF3lica"
+      correcta: 0
+    - respuesta: Protestante
+      correcta: 0
+    - respuesta: "Jud\xEDa"
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 flor se asocia m\xE1s con Holanda?"
+    id: 3
+    respuestas:
+    - respuesta: Margarita
+      correcta: 0
+    - respuesta: "Tulip\xE1n"
+      correcta: 1
+    - respuesta: Rosa
+      correcta: 0
+    - respuesta: Hibisco
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 maquinaria se asocia m\xE1s con Holanda?"
+    id: 4
+    respuestas:
+    - respuesta: Grada
+      correcta: 0
+    - respuesta: Molino
+      correcta: 1
+    - respuesta: Tractor
+      correcta: 0
+    - respuesta: Cosechadora
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 tipo de energ\xEDa renovable es m\xE1s utilizada en Holanda?"
+    id: 5
+    respuestas:
+    - respuesta: Solar
+      correcta: 0
+    - respuesta: "E\xF3lica"
+      correcta: 1
+    - respuesta: "Geot\xE9rmica"
+      correcta: 0
+    - respuesta: "Hidr\xE1ulica"
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCon qu\xE9 lo mataron a Van Gogh?"
+    id: 6
+    respuestas:
+    - respuesta: Arma de fuego
+      correcta: 1
+    - respuesta: Espada
+      correcta: 0
+    - respuesta: Motocicleta
+      correcta: 0
+    - respuesta: "Autom\xF3vil"
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFCu\xE1ndo comenz\xF3 el Siglo de Oro holand\xE9s?"
+    id: 7
+    respuestas:
+    - respuesta: XVI
+      correcta: 0
+    - respuesta: XVIII
+      correcta: 0
+    - respuesta: XVII
+      correcta: 1
+    - respuesta: XIX
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es la capital de Holanda?"
+    id: 8
+    respuestas:
+    - respuesta: La Haya
+      correcta: 0
+    - respuesta: "R\xF3terdam"
+      correcta: 0
+    - respuesta: "\xC1msterdam"
+      correcta: 1
+    - respuesta: Utrecht
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFC\xF3mo se llama el barrio m\xE1s liberalizado de \xC1msterdam?"
+    id: 9
+    respuestas:
+    - respuesta: Barrio negro
+      correcta: 0
+    - respuesta: Barrio verde
+      correcta: 0
+    - respuesta: Barrio azul
+      correcta: 0
+    - respuesta: Barrio rojo
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 ciudad de Holanda tiene m\xE1s poblaci\xF3n?"
+    id: 10
+    respuestas:
+    - respuesta: "\xC1msterdam"
+      correcta: 1
+    - respuesta: "R\xF3terdam"
+      correcta: 0
+    - respuesta: La Haya
+      correcta: 0
+    - respuesta: Utrecht
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 se usaba en el siglo XIII para preservar alimentos en Holanda?"
+    id: 11
+    respuestas:
+    - respuesta: Azucarado
+      correcta: 0
+    - respuesta: Calentado
+      correcta: 0
+    - respuesta: "Salaz\xF3n"
+      correcta: 1
+    - respuesta: Envasado
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1ntos kil\xF3metros miden aproximadamente los canales en
+      \xC1msterdam?"
+    id: 12
+    respuestas:
+    - respuesta: 80 km.
+      correcta: 0
+    - respuesta: 100 km.
+      correcta: 1
+    - respuesta: 60 km.
+      correcta: 0
+    - respuesta: 120 km.
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 fil\xF3sofo holand\xE9s fue importante en el siglo XVII?"
+    id: 13
+    respuestas:
+    - respuesta: Grocio
+      correcta: 0
+    - respuesta: "R\xF3terdam"
+      correcta: 0
+    - respuesta: Descartes
+      correcta: 0
+    - respuesta: Spinoza
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFEn qu\xE9 mes se celebra el 'Holland Festival'?"
+    id: 14
+    respuestas:
+    - respuesta: Agosto
+      correcta: 0
+    - respuesta: Mayo
+      correcta: 0
+    - respuesta: Julio
+      correcta: 0
+    - respuesta: Junio
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1ntos cuadros pint\xF3 aproximadamente Van Gogh?"
+    id: 15
+    respuestas:
+    - respuesta: 200
+      correcta: 0
+    - respuesta: 1600
+      correcta: 0
+    - respuesta: 800
+      correcta: 1
+    - respuesta: 400
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFC\xF3mo se le dice a la historieta en Holanda?"
+    id: 16
+    respuestas:
+    - respuesta: Cartoon
+      correcta: 0
+    - respuesta: Strip
+      correcta: 1
+    - respuesta: "C\xF3mic"
+      correcta: 0
+    - respuesta: Chiste
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1nto mide en promedio un hombre holand\xE9s?"
+    id: 17
+    respuestas:
+    - respuesta: 1.87 m
+      correcta: 0
+    - respuesta: 1.79 m
+      correcta: 0
+    - respuesta: 1.83 m
+      correcta: 1
+    - respuesta: 1.69 m
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFEn qu\xE9 a\xF1o se legaliz\xF3 el matrimonio igualitario en Holanda?"
+    id: 18
+    respuestas:
+    - respuesta: 1998
+      correcta: 0
+    - respuesta: 2001
+      correcta: 1
+    - respuesta: 2004
+      correcta: 0
+    - respuesta: 2010
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFC\xF3mo se llama el himno nacional de Holanda?"
+    id: 19
+    respuestas:
+    - respuesta: Deutschlandlied
+      correcta: 0
+    - respuesta: Hatikvah
+      correcta: 0
+    - respuesta: Kimigayo
+      correcta: 0
+    - respuesta: Het Wilhelmus
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 bebida se origin\xF3 en Holanda?"
+    id: 20
+    respuestas:
+    - respuesta: Ginebra
+      correcta: 1
+    - respuesta: Vino
+      correcta: 0
+    - respuesta: Cerveza
+      correcta: 0
+    - respuesta: Sidra
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 moneda se utiliza en Holanda?"
+    id: 21
+    respuestas:
+    - respuesta: "D\xF3lar"
+      correcta: 0
+    - respuesta: Euro
+      correcta: 1
+    - respuesta: Rublo
+      correcta: 0
+    - respuesta: Yen
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1l es el idioma oficial de Holanda?"
+    id: 22
+    respuestas:
+    - respuesta: "Neerland\xE9s"
+      correcta: 1
+    - respuesta: "Franc\xE9s"
+      correcta: 0
+    - respuesta: "Alem\xE1n"
+      correcta: 0
+    - respuesta: "Fris\xF3n"
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 idioma africano proviene del neerland\xE9s?"
+    id: 23
+    respuestas:
+    - respuesta: "Afrik\xE1ans"
+      correcta: 1
+    - respuesta: Suajili
+      correcta: 0
+    - respuesta: Oromo
+      correcta: 0
+    - respuesta: Hausa
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 deporte se considera importante en Holanda?"
+    id: 24
+    respuestas:
+    - respuesta: Tenis
+      correcta: 0
+    - respuesta: Ciclismo
+      correcta: 1
+    - respuesta: "Nataci\xF3n"
+      correcta: 0
+    - respuesta: Balonmano
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1l es el destino m\xE1s visitado de Holanda?"
+    id: 25
+    respuestas:
+    - respuesta: La Haya
+      correcta: 0
+    - respuesta: "\xC1msterdam"
+      correcta: 1
+    - respuesta: Gouda
+      correcta: 0
+    - respuesta: "R\xF3terdam"
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1l es la sopa m\xE1s popular de Holanda?"
+    id: 26
+    respuestas:
+    - respuesta: Cebolla
+      correcta: 0
+    - respuesta: Miso
+      correcta: 0
+    - respuesta: Guisantes
+      correcta: 1
+    - respuesta: Gulash
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQu\xE9 recurso natural es abundante en Holanda?"
+    id: 27
+    respuestas:
+    - respuesta: Caliza
+      correcta: 0
+    - respuesta: Plata
+      correcta: 0
+    - respuesta: "Petr\xF3leo"
+      correcta: 0
+    - respuesta: Gas natural
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1ntas provincias tiene Holanda?"
+    id: 28
+    respuestas:
+    - respuesta: 7
+      correcta: 0
+    - respuesta: 20
+      correcta: 0
+    - respuesta: 12
+      correcta: 1
+    - respuesta: 14
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es el animal nacional de Holanda?"
+    id: 29
+    respuestas:
+    - respuesta: "Le\xF3n"
+      correcta: 1
+    - respuesta: Zorro
+      correcta: 0
+    - respuesta: Vaca
+      correcta: 0
+    - respuesta: Tigre
+      correcta: 0
+    previusChanges: 01000000

@@ -1,0 +1,376 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 422427d9eb81f684287115b868d210f8, type: 3}
+  m_Name: Preguntas_EGP_ES
+  m_EditorClassIdentifier: 
+  Preguntas:
+  - pregunta: "\xBFQui\xE9nes construyeron las pir\xE1mides egipcias?"
+    id: 0
+    respuestas:
+    - respuesta: Trabajadores pagados
+      correcta: 1
+    - respuesta: Esclavos
+      correcta: 0
+    - respuesta: Romanos
+      correcta: 0
+    - respuesta: Extraterrestres
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFCu\xE1l es el deporte m\xE1s popular de Egipto?"
+    id: 1
+    respuestas:
+    - respuesta: Motociclismo
+      correcta: 0
+    - respuesta: "F\xFAtbol"
+      correcta: 1
+    - respuesta: "B\xE1dminton"
+      correcta: 0
+    - respuesta: Petanca
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1l es la capital de Egipto?"
+    id: 2
+    respuestas:
+    - respuesta: "Asu\xE1n"
+      correcta: 0
+    - respuesta: "Alejandr\xEDa"
+      correcta: 0
+    - respuesta: El Cairo
+      correcta: 1
+    - respuesta: "L\xFAxor"
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFEn qu\xE9 per\xEDodo comienza el Antiguo Egipto?"
+    id: 3
+    respuestas:
+    - respuesta: "Neol\xEDtico"
+      correcta: 1
+    - respuesta: "Mesol\xEDtico"
+      correcta: 0
+    - respuesta: "Eneol\xEDtico"
+      correcta: 0
+    - respuesta: "Paleol\xEDtico"
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFCu\xE1l es el idioma m\xE1s hablado de Egipto?"
+    id: 4
+    respuestas:
+    - respuesta: "\xC1rabe"
+      correcta: 1
+    - respuesta: "Ingl\xE9s"
+      correcta: 0
+    - respuesta: "Franc\xE9s"
+      correcta: 0
+    - respuesta: Siwi
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQui\xE9nes modificaron radicalmente la cultura del Antiguo Egipto?"
+    id: 5
+    respuestas:
+    - respuesta: Celtas
+      correcta: 0
+    - respuesta: Germanos
+      correcta: 0
+    - respuesta: Romanos
+      correcta: 1
+    - respuesta: Mongoles
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1ntas pir\xE1mides hay en la meseta de Guiza?"
+    id: 6
+    respuestas:
+    - respuesta: 4
+      correcta: 0
+    - respuesta: 2
+      correcta: 0
+    - respuesta: 3
+      correcta: 1
+    - respuesta: 7
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFC\xF3mo se llamaba el rey del Antiguo Egipto?"
+    id: 7
+    respuestas:
+    - respuesta: Emperador
+      correcta: 0
+    - respuesta: "Fara\xF3n"
+      correcta: 1
+    - respuesta: Duque
+      correcta: 0
+    - respuesta: Conde
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFC\xF3mo se llama el \xFAnico r\xEDo de Egipto?"
+    id: 8
+    respuestas:
+    - respuesta: "E\xFAfrates"
+      correcta: 0
+    - respuesta: Tigris
+      correcta: 0
+    - respuesta: Nilo
+      correcta: 1
+    - respuesta: Amazonas
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQu\xE9 sistema de escritura utilizaban en el Antiguo Egipto?"
+    id: 9
+    respuestas:
+    - respuesta: Bamum
+      correcta: 0
+    - respuesta: Cuneiforme
+      correcta: 0
+    - respuesta: "Jerogl\xEDficos"
+      correcta: 1
+    - respuesta: Glifos
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l fue la biblioteca m\xE1s grande del Antiguo Egipto?"
+    id: 10
+    respuestas:
+    - respuesta: Tebas
+      correcta: 0
+    - respuesta: "Alejandr\xEDa"
+      correcta: 1
+    - respuesta: Karnak
+      correcta: 0
+    - respuesta: Tell El-Amarna
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFC\xF3mo se llama el dios cocodrilo de la mitolog\xEDa egipcia?"
+    id: 11
+    respuestas:
+    - respuesta: Anubis
+      correcta: 0
+    - respuesta: "Am\xF3n"
+      correcta: 0
+    - respuesta: Ra
+      correcta: 0
+    - respuesta: Sobek
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1l es la religi\xF3n m\xE1s predominante en Egipto?"
+    id: 12
+    respuestas:
+    - respuesta: "Cat\xF3lica copta"
+      correcta: 0
+    - respuesta: Islam
+      correcta: 1
+    - respuesta: Ortodoxa copta
+      correcta: 0
+    - respuesta: "Cat\xF3lica maronita"
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 tipo de m\xFAsica es la m\xE1s popular en El Cairo?"
+    id: 13
+    respuestas:
+    - respuesta: Mamba
+      correcta: 1
+    - respuesta: "Cl\xE1sica"
+      correcta: 0
+    - respuesta: Pop
+      correcta: 0
+    - respuesta: "Electr\xF3nica"
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 alimento se considera principal en la dieta egipcia?"
+    id: 14
+    respuestas:
+    - respuesta: Sopa
+      correcta: 0
+    - respuesta: Frijoles
+      correcta: 0
+    - respuesta: Mezze
+      correcta: 0
+    - respuesta: Pan
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 animal no se consideraba divino en el Antiguo Egipto?"
+    id: 15
+    respuestas:
+    - respuesta: Escarabajo
+      correcta: 0
+    - respuesta: Canguro
+      correcta: 1
+    - respuesta: "Le\xF3n"
+      correcta: 0
+    - respuesta: Gato
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFEn qu\xE9 mes del a\xF1o rebalsa el r\xEDo Nilo?"
+    id: 16
+    respuestas:
+    - respuesta: Octubre
+      correcta: 0
+    - respuesta: Septiembre
+      correcta: 1
+    - respuesta: Noviembre
+      correcta: 0
+    - respuesta: Agosto
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 tipo de piedra se utiliz\xF3 en las pir\xE1mides egipcias?"
+    id: 17
+    respuestas:
+    - respuesta: "M\xE1rmol"
+      correcta: 0
+    - respuesta: Pizarra
+      correcta: 0
+    - respuesta: Granito
+      correcta: 0
+    - respuesta: Caliza
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQui\xE9nes pod\xEDan usar maquillaje en el Antiguo Egipto?"
+    id: 18
+    respuestas:
+    - respuesta: Hombres
+      correcta: 0
+    - respuesta: Mujeres
+      correcta: 0
+    - respuesta: Cualquier persona
+      correcta: 1
+    - respuesta: Faraones
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l fue el juego de mesa m\xE1s popular del Antiguo Egipto?"
+    id: 19
+    respuestas:
+    - respuesta: Go
+      correcta: 0
+    - respuesta: Oware
+      correcta: 0
+    - respuesta: Senet
+      correcta: 1
+    - respuesta: Ur
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1ntos dioses se adoraban en promedio en el Antiguo Egipto?"
+    id: 20
+    respuestas:
+    - respuesta: 1700
+      correcta: 0
+    - respuesta: 1800
+      correcta: 0
+    - respuesta: 2500
+      correcta: 0
+    - respuesta: 2000
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 nacionalidad ten\xEDa Cleopatra en su nacimiento?"
+    id: 21
+    respuestas:
+    - respuesta: Germana
+      correcta: 0
+    - respuesta: Egipcia
+      correcta: 0
+    - respuesta: Griega
+      correcta: 1
+    - respuesta: Celta
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQu\xE9 desierto gigante se encuentra tambi\xE9n en Egipto?"
+    id: 22
+    respuestas:
+    - respuesta: Nitria
+      correcta: 0
+    - respuesta: Farafra
+      correcta: 0
+    - respuesta: "Ar\xE1bigo"
+      correcta: 0
+    - respuesta: Sahara
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQui\xE9n fund\xF3 Alejandr\xEDa?"
+    id: 23
+    respuestas:
+    - respuesta: Filotas
+      correcta: 0
+    - respuesta: "Dar\xEDo III"
+      correcta: 0
+    - respuesta: "Din\xF3crates"
+      correcta: 0
+    - respuesta: Alejandro Magno
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1ntos d\xEDas ten\xEDa el antiguo calendario egipcio?"
+    id: 24
+    respuestas:
+    - respuesta: 364
+      correcta: 0
+    - respuesta: 355
+      correcta: 0
+    - respuesta: 354
+      correcta: 0
+    - respuesta: 365
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFAlrededor de cu\xE1ntos s\xEDmbolos jerogl\xEDficos egipcios se
+      usaron?"
+    id: 25
+    respuestas:
+    - respuesta: 300
+      correcta: 0
+    - respuesta: 100
+      correcta: 0
+    - respuesta: 700
+      correcta: 1
+    - respuesta: 500
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQui\xE9n representa el sol en la mitolog\xEDa egipcia?"
+    id: 26
+    respuestas:
+    - respuesta: Ra
+      correcta: 1
+    - respuesta: Anubis
+      correcta: 0
+    - respuesta: Sobek
+      correcta: 0
+    - respuesta: "Am\xF3n"
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 se consideraba muy importante en el Antiguo Egipto?"
+    id: 27
+    respuestas:
+    - respuesta: Vida eterna
+      correcta: 1
+    - respuesta: Arena
+      correcta: 0
+    - respuesta: Moscas
+      correcta: 0
+    - respuesta: "\xC1rboles"
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 invento surgi\xF3 en el Antiguo Egipto?"
+    id: 28
+    respuestas:
+    - respuesta: "P\xF3lvora"
+      correcta: 0
+    - respuesta: Rueda
+      correcta: 0
+    - respuesta: Lapicera
+      correcta: 0
+    - respuesta: Pasta de dientes
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 est\xE1ndar de tiempo se maneja en Egipto?"
+    id: 29
+    respuestas:
+    - respuesta: GMT +3
+      correcta: 0
+    - respuesta: GMT -2
+      correcta: 0
+    - respuesta: GMT -3
+      correcta: 0
+    - respuesta: GMT +2
+      correcta: 1
+    previusChanges: 00000001

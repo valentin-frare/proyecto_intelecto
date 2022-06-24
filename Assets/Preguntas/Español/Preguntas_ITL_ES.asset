@@ -1,0 +1,376 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 422427d9eb81f684287115b868d210f8, type: 3}
+  m_Name: Preguntas_ITL_ES
+  m_EditorClassIdentifier: 
+  Preguntas:
+  - pregunta: "\xBFCu\xE1ntos volcanes activos tiene Itala?"
+    id: 0
+    respuestas:
+    - respuesta: 15
+      correcta: 0
+    - respuesta: 2
+      correcta: 0
+    - respuesta: 3
+      correcta: 1
+    - respuesta: 7
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFEn qu\xE9 ciudad se origin\xF3 la pizza moderna?"
+    id: 1
+    respuestas:
+    - respuesta: "Mil\xE1n"
+      correcta: 0
+    - respuesta: Venecia
+      correcta: 0
+    - respuesta: Roma
+      correcta: 0
+    - respuesta: "N\xE1poles"
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFC\xF3mo se llama la famosa torre inclinada de Italia?"
+    id: 2
+    respuestas:
+    - respuesta: Popolo
+      correcta: 0
+    - respuesta: Milicia
+      correcta: 0
+    - respuesta: Littora
+      correcta: 0
+    - respuesta: Pisa
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 tipo de edificio era el coliseo romano?"
+    id: 3
+    respuestas:
+    - respuesta: "C\xE1rcel"
+      correcta: 0
+    - respuesta: Anfiteatro
+      correcta: 1
+    - respuesta: Hotel
+      correcta: 0
+    - respuesta: Castillo
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 plato no es famoso en Italia?"
+    id: 4
+    respuestas:
+    - respuesta: Pizza
+      correcta: 0
+    - respuesta: Pasta
+      correcta: 0
+    - respuesta: Risotto
+      correcta: 0
+    - respuesta: Omelette
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFEn qu\xE9 ciudad italiana naci\xF3n el Renacimiento?"
+    id: 5
+    respuestas:
+    - respuesta: Florencia
+      correcta: 1
+    - respuesta: Venecia
+      correcta: 0
+    - respuesta: Roma
+      correcta: 0
+    - respuesta: Forli
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFDe qu\xE9 continente ven\xEDan la mayor\xEDa de animales al coliseo
+      romano?"
+    id: 6
+    respuestas:
+    - respuesta: "Am\xE9rica"
+      correcta: 0
+    - respuesta: Europa
+      correcta: 0
+    - respuesta: Asia
+      correcta: 0
+    - respuesta: "\xC1frica"
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFA qui\xE9n se le atribuye la frase 'el fin justifica los medios'?"
+    id: 7
+    respuestas:
+    - respuesta: Maquiavelo
+      correcta: 1
+    - respuesta: Savonarola
+      correcta: 0
+    - respuesta: "De M\xE9dici"
+      correcta: 0
+    - respuesta: Sforza
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQui\xE9n pint\xF3 'La creaci\xF3n de Ad\xE1n'?"
+    id: 8
+    respuestas:
+    - respuesta: Donatello
+      correcta: 0
+    - respuesta: "Miguel \xC1ngel"
+      correcta: 1
+    - respuesta: Tiziano
+      correcta: 0
+    - respuesta: Da Vinci
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQui\xE9n pint\xF3 la 'Mona Lisa'?"
+    id: 9
+    respuestas:
+    - respuesta: Tiziano
+      correcta: 0
+    - respuesta: Donatello
+      correcta: 0
+    - respuesta: "Miguel \xC1ngel"
+      correcta: 0
+    - respuesta: Da Vinci
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 significa '\xF3pera' en italiano?"
+    id: 10
+    respuestas:
+    - respuesta: Obra
+      correcta: 1
+    - respuesta: Canto
+      correcta: 0
+    - respuesta: Musical
+      correcta: 0
+    - respuesta: Cuento
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFEn qu\xE9 a\xF1o surgi\xF3 el primer acueducto romano?"
+    id: 11
+    respuestas:
+    - respuesta: 213 a.C.
+      correcta: 0
+    - respuesta: 123 a.C.
+      correcta: 0
+    - respuesta: 312 a.C.
+      correcta: 1
+    - respuesta: 321 a.C.
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQu\xE9 ciudad italiana fue destruida por una erupci\xF3n volc\xE1nica?"
+    id: 12
+    respuestas:
+    - respuesta: "G\xE9nova"
+      correcta: 0
+    - respuesta: Verona
+      correcta: 0
+    - respuesta: "N\xE1poles"
+      correcta: 0
+    - respuesta: Pompeya
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFD\xF3nde se encuentra la Bas\xEDlica de San Pedro?"
+    id: 13
+    respuestas:
+    - respuesta: Florencia
+      correcta: 0
+    - respuesta: Venecia
+      correcta: 0
+    - respuesta: Roma
+      correcta: 0
+    - respuesta: Vaticano
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQui\xE9n escribi\xF3 la 'Divina Comedia'?"
+    id: 14
+    respuestas:
+    - respuesta: Virgilio
+      correcta: 0
+    - respuesta: Boccaccio
+      correcta: 0
+    - respuesta: Petrarca
+      correcta: 0
+    - respuesta: Alighieri
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFQu\xE9 tipo de caf\xE9 se origin\xF3 en Italia?"
+    id: 15
+    respuestas:
+    - respuesta: Moca
+      correcta: 0
+    - respuesta: Carajillo
+      correcta: 0
+    - respuesta: Capuchino
+      correcta: 1
+    - respuesta: "Frapp\xE9"
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQu\xE9 tipo de helado se origin\xF3 en Italia?"
+    id: 16
+    respuestas:
+    - respuesta: Agua
+      correcta: 0
+    - respuesta: Leche
+      correcta: 0
+    - respuesta: Crema
+      correcta: 0
+    - respuesta: Gelato
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1l es el idioma oficial de Italia?"
+    id: 17
+    respuestas:
+    - respuesta: Siciliano
+      correcta: 0
+    - respuesta: Italiano
+      correcta: 1
+    - respuesta: "V\xE9neto"
+      correcta: 0
+    - respuesta: "Lat\xEDn"
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 marca de autom\xF3viles no es italiana?"
+    id: 18
+    respuestas:
+    - respuesta: Peugeot
+      correcta: 1
+    - respuesta: Ferrari
+      correcta: 0
+    - respuesta: Lamborghini
+      correcta: 0
+    - respuesta: Vespa
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFCu\xE1l es la capital de Italia?"
+    id: 19
+    respuestas:
+    - respuesta: "N\xE1poles"
+      correcta: 0
+    - respuesta: Roma
+      correcta: 1
+    - respuesta: Florencia
+      correcta: 0
+    - respuesta: Venecia
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFCu\xE1ntos pa\xEDses fronterizos tiene Italia?"
+    id: 20
+    respuestas:
+    - respuesta: 3
+      correcta: 0
+    - respuesta: 4
+      correcta: 1
+    - respuesta: 5
+      correcta: 0
+    - respuesta: 6
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 pa\xEDs no es fronterizo de Italia?"
+    id: 21
+    respuestas:
+    - respuesta: Grecia
+      correcta: 1
+    - respuesta: Francia
+      correcta: 0
+    - respuesta: Eslovenia
+      correcta: 0
+    - respuesta: Austria
+      correcta: 0
+    previusChanges: 01000000
+  - pregunta: "\xBFQu\xE9 mar forma parte de Italia?"
+    id: 22
+    respuestas:
+    - respuesta: Blanco
+      correcta: 0
+    - respuesta: "B\xE1ltico"
+      correcta: 0
+    - respuesta: Rojo
+      correcta: 0
+    - respuesta: "Mediterr\xE1neo"
+      correcta: 1
+    previusChanges: 00000001
+  - pregunta: "\xBFCu\xE1l es la ciudad m\xE1s visitada de Italia?"
+    id: 23
+    respuestas:
+    - respuesta: "Mil\xE1n"
+      correcta: 0
+    - respuesta: Roma
+      correcta: 1
+    - respuesta: "Tur\xEDn"
+      correcta: 0
+    - respuesta: "N\xE1poles"
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 zona italiana es monta\xF1osa?"
+    id: 24
+    respuestas:
+    - respuesta: Oeste
+      correcta: 0
+    - respuesta: Este
+      correcta: 0
+    - respuesta: Norte
+      correcta: 1
+    - respuesta: Sur
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFDesde qu\xE9 edad es obligatoria la educaci\xF3n en Italia?"
+    id: 25
+    respuestas:
+    - respuesta: 4
+      correcta: 0
+    - respuesta: 5
+      correcta: 0
+    - respuesta: 6
+      correcta: 1
+    - respuesta: 3
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFQu\xE9 religi\xF3n predomina en Italia?"
+    id: 26
+    respuestas:
+    - respuesta: "Jud\xEDa"
+      correcta: 0
+    - respuesta: Mormona
+      correcta: 0
+    - respuesta: "Cat\xF3lica"
+      correcta: 1
+    - respuesta: "Sin religi\xF3n"
+      correcta: 0
+    previusChanges: 00000100
+  - pregunta: "\xBFCu\xE1l es el deporte m\xE1s popular en Italia?"
+    id: 27
+    respuestas:
+    - respuesta: Ciclismo
+      correcta: 0
+    - respuesta: "F\xFAtbol"
+      correcta: 1
+    - respuesta: Voleibol
+      correcta: 0
+    - respuesta: Rugby
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFQu\xE9 color se encuentra a la izquierda de la bandera italiana?"
+    id: 28
+    respuestas:
+    - respuesta: Rojo
+      correcta: 0
+    - respuesta: Verde
+      correcta: 1
+    - respuesta: Naranja
+      correcta: 0
+    - respuesta: Azul
+      correcta: 0
+    previusChanges: 00010000
+  - pregunta: "\xBFD\xF3nde apareci\xF3 por primera vez Pinocho?"
+    id: 29
+    respuestas:
+    - respuesta: Teatro
+      correcta: 0
+    - respuesta: "Pel\xEDcula"
+      correcta: 0
+    - respuesta: "Peri\xF3dico"
+      correcta: 1
+    - respuesta: Libro
+      correcta: 0
+    previusChanges: 00000100
